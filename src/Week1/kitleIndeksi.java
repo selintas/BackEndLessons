@@ -24,5 +24,9 @@ public class kitleIndeksi {
         double vucutKitleIndeksi = kilo / (boy * boy);
 
         System.out.println("vucut Kitle Indeksi : " + vucutKitleIndeksi);
+
+        // Scanner kapatma
+        inp.close();
+
     }
 }
