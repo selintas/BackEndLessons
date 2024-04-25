@@ -23,6 +23,9 @@ public class kdv {
         System.out.println("KDV tutarı :" + KDVtutar);
         System.out.println("KDVli tutar :" + KDVlitutar);
         System.out.println("KDV orani : %" + (KDVoran * 100));
+
+        // Scanner kapatma
+        input.close();
     }
 
 }
