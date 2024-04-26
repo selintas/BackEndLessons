@@ -2,13 +2,14 @@ package Week1;
 
 import java.util.Scanner;
 
-public class ücgeninalani {
+public class ücgeninAlani {
     public static void main (String[] args) {
 
-        // kenarları yazalım
+        // kenarları yazalım.
         double a, b, c;
 
-        // kenar uzunluk bilgisi girmek içim
+        // kenar uzunluk bilgisi girmek icin
+
          Scanner girdi  = new Scanner(System.in);
 
          System.out.println(" 1. kenar uzunluğu : ");

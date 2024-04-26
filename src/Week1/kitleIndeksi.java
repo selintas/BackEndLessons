@@ -18,7 +18,6 @@ public class kitleIndeksi {
         System.out.println("Lütfen kilonuzu (kg) giriniz : ");
         kilo = inp.nextDouble();
 
-
         // Vücut Kitle İndeksi hesabı
 
         double vucutKitleIndeksi = kilo / (boy * boy);
