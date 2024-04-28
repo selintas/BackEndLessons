@@ -2,6 +2,10 @@ package Week1;
 
 import java.util.Scanner;
 
+//week1 teknik3
+
+// ATM işlemlerini "Switch-Case" yöntemi ile.
+
 public class ATM {
     public static void main(String[] args) {
         String userName, password;

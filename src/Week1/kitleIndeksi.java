@@ -7,6 +7,7 @@ public class kitleIndeksi {
     public static void main(String[] args) {
 
         // Değişkenleri tanımlamayalım.
+
         double kilo;
         double boy;
 

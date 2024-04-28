@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 
 public class DikÜcgenHipotenüsBulma {
+    //teknik 1 -Dik Üçgende Hipotenüs Bulan Program
     public static void main(String[] args) {
         // Değişkenleri belirle.
 

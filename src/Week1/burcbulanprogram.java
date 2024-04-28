@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class burcbulanprogram {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+//burc bulan program -  switch-case kullanmadan yapıldı.
 
         System.out.println("Doğduğunuz ayı giriniz:");
         String ay = input.next();

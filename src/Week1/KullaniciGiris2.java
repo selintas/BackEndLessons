@@ -3,6 +3,7 @@ package Week1;
 import java.util.Scanner;
 
 public class KullaniciGiris2 {
+
     public static void main(String[] args) {
         String userName, password;
 

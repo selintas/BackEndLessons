@@ -3,6 +3,8 @@ package Week1;
 import java.util.Scanner;
 
 public class cinZodyagi {
+     //Doğum Tarihi %12 = 0 ➜ Maymun - örnek
+
 
      public static void main(String[] args) {
           int age;

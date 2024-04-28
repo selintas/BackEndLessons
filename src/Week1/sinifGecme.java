@@ -6,10 +6,7 @@ public class sinifGecme {
     public static void main(String[] args) {
         int mat, fizik, turkce, kimya, muzik;
 
-
         Scanner input = new Scanner(System.in);
-
-
 
         System.out.print("Matematik notunuz: " );
         mat = input.nextInt();

@@ -2,9 +2,9 @@ package Week1;
 
 import java.util.Scanner;
 
-public class ücgeninAlani {
+public class ucgeninAlan {
     public static void main (String[] args) {
-
+//Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan program
         // kenarları yazalım.
         double a, b, c;
 
@@ -27,8 +27,6 @@ public class ücgeninAlani {
 
         // sonuc yazdır
         System.out.println ("ücgenın alanı : " + alan);
-
-
 
 
     }

@@ -6,7 +6,8 @@ public class AritmetikIslemler {
 
     public static void main(String[] args) {
 
-        // a, b, c için a+b*c-b. hesabı yapalım....
+        // a, b, c için a+b*c-b. hesabı yapalım...
+        // Teknik 1 Pratik - Aritmetik İşlemler ve İşlem Önceliği
 
 
         //  10, 2 ve 3 olsun. Yapılacak işlem ise 10+2*3-2 şeklinde olsun.

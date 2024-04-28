@@ -3,6 +3,8 @@ package Week1;
 import java.util.Scanner;
 
 public class basitHesapMakinesi {
+    //week 1 // teknik 2 - switch-case  yontemı ıle .
+
     public static void main(String[] args) {
         int n1, n2, select;
 
