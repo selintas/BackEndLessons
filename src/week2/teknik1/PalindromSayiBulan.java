@@ -1,6 +1,7 @@
 package week2.teknik1;
 
 import java.util.Scanner;
+//Palindrome Number
 
 public class PalindromSayiBulan {
 
