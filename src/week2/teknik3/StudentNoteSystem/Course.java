@@ -23,7 +23,7 @@ public class Course {
         }
     }
 
-    public void printTeacher() {
+    public void courseTeacher() {
         if (courseTeacher != null) {
             System.out.println(this.name + " dersinin Akademisyeni : " + courseTeacher.name);
         } else {
